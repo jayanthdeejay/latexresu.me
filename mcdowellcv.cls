@@ -110,7 +110,7 @@
 \name{}
 
 \newcommand\printname{
-	\textbf{\LARGE\textls[50]{\textsc{\@name}}}
+	\textbf{\LARGE\textls[40]{\textsc{\@name}}}
 }
 
 \makeatother
@@ -130,7 +130,7 @@
 \makeatletter
 \newcommand\makeheader{
 	\begin{center}
-		\begin{tabu} to 1\textwidth { X[l,m] X[2,c,m] X[r,m] }
+		\begin{tabu} to 1\textwidth { X[l,m] X[1,c,m] X[r,m] }
 			\printaddress & \printname & \printcontacts \\
 		\end{tabu}	
 	\end{center}

@@ -8,6 +8,6 @@ To generate a PDF from this LaTeX code, navigate to this folder in a terminal an
 
 ## Requirements
 You will need to have `lualatex` installed on your machine.
-Or, cocalc.com is amazing.:w
+Or, cocalc.com is amazing.
 
 Alternatively, you can use a site like [ShareLaTeX](https://sharelatex.com) to build and edit your LaTeX instead.
